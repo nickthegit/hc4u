@@ -53,26 +53,6 @@
   export default {
     components: {
       Logo
-    },
-    mounted() {
-      !(function(b, c) {
-        ;(b.saloniqid = '1e7d7624-feb7-4950-a6be-5fbb1498ee39'),
-          (b.saloniqsite = 'https://demowidget.saloniq.co.uk')
-        var d,
-          g,
-          e = 'onlinebookingwidget-loader',
-          f = c.getElementsByTagName('script')[0]
-        c.getElementById(e) ||
-          ((d = c.createElement('script')),
-          (d.id = e),
-          (d.async = !0),
-          (d.src =
-            b.saloniqsite +
-            '/scripts/onlinebookingwidget-loader.js?d=' +
-            Date.now()),
-          (g = f ? f.parentNode : c.getElementsByTagName('head')[0]),
-          g.insertBefore(d, f))
-      })(window, document)
     }
   }
 </script>
