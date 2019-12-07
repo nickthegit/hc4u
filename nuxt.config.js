@@ -5,11 +5,11 @@ export default {
   ** Headers of the page
   */
   head: {
-    title: 'Beauty Bar Yeovil',
+    title: 'Hair & Care 4U, Yeovil',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'The beauty bar is situated upstairs within Tesco extra right in the heart of Yeovil, the perfect location for your convenience.' }
+      { hid: 'description', name: 'description', content: "Yeovil's Premier Hair and Beauty Destination.Home to a dedicated team of stylists and therapists, offering a blend of suberb cutting and beautiful colour work." }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: 'https://fonts.googleapis.com/css?family=Bebas+Neue|Open+Sans&display=swap' },

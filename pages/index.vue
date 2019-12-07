@@ -2,21 +2,17 @@
   <main>
     <section id="hero"></section>
     <article>
-      <img src="/bar_logo.png" alt="Pure Hair logo" />
+      <img src="/hc_logo.png" alt="Hair & Care 4U logo" />
       <section>
-        <h1>Welcome to The Beauty Bar, Yeovil</h1>
-        <p>The beauty bar is situated upstairs within Tesco extra right in the heart of Yeovil, the perfect location for your convenience.</p>
+        <h1>Welcome to Hair & Care 4U, Yeovil</h1>
+        <p>Yeovil's Premier Hair and Beauty Destination. Home to a dedicated team of stylists and therapists, offering a blend of suberb cutting and beautiful colour work.</p>
         <a class="btn" href="javascript:void(0)" onclick="saloniq.loader.openIFrame()">Book Online</a>
-        <!-- <a
-          href="https://purehair.mylocalsalon.com/onlinebooking/v7410/Steps/SelectServices.aspx"
-          class="btn"
-        >Book Online Now</a>-->
       </section>
       <section id="contact">
         <a href="tel:+44 1935 434534">01935 434534</a>
         <address>4, Tesco Stores, Queensway Pl, Yeovil BA20 1DL</address>
         <section id="socials">
-          <a href="https://www.facebook.com/beautybaryeovil/">
+          <a href="https://www.facebook.com/hairandcare4u/">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               fill="none"
@@ -30,7 +26,7 @@
               <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z" />
             </svg>
           </a>
-          <a href="https://www.instagram.com/beautybar_yeovil">
+          <!-- <a href="https://www.instagram.com/beautybar_yeovil">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               fill="none"
@@ -44,7 +40,7 @@
               <rect width="20" height="20" x="2" y="2" rx="5" ry="5" />
               <path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37zM17.5 6.5h.01" />
             </svg>
-          </a>
+          </a>-->
         </section>
       </section>
     </article>
@@ -97,7 +93,7 @@
     }
   }
   #hero {
-    background-image: url('/bar_salon_shot.jpg');
+    background-image: url('/hc_salon_shot.jpg');
     background-position: 50% 50%;
     background-size: cover;
     background-repeat: no-repeat;
