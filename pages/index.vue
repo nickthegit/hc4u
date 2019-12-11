@@ -6,7 +6,10 @@
       <section>
         <h1>Welcome to Hair & Care 4U, Yeovil</h1>
         <p>Yeovil's Premier Hair and Beauty Destination. Home to a dedicated team of stylists and therapists, offering a blend of suberb cutting and beautiful colour work.</p>
-        <a class="btn" href="javascript:void(0)" onclick="saloniq.loader.openIFrame()">Book Online</a>
+        <a
+          class="btn"
+          href="https://bookings.saloniq.co.uk/widget/dist/?6cf3e0f8-75f7-4b77-b6d2-9bbc17c996c8"
+        >Book Online</a>
       </section>
       <section id="contact">
         <a href="tel:+44 1935 434534">01935 434534</a>
